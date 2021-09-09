@@ -6,9 +6,6 @@ A back end e-commerce application allowing the user to CRUD(Create, Read, Update
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Features](#features)
-- [Contributions](#contributions)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## <ins>Installation</ins>
