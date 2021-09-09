@@ -30,7 +30,9 @@ Open Insomnia and import the template.json file inside of the insomnia file, by 
 
 ## <ins>Usage</ins>
  
-Insomnia allows you to run different methods on different routes, and for this application we are testing the databases capabilities. The database is capable of handling a POST, GET, PUT and DELETE route for Categories, Tags and Products. 
+Insomnia allows you to run different methods on different routes, and for this application we are testing the databases capabilities. The database is capable of handling a POST, GET, PUT and DELETE route for Categories, Tags and Products. The template.json allows you to have the preset functions as well as the appropriate structure for the json for each item. Simply change the values in order to Create, Read, Update or Delete any of the items.
+
+Example of application:
  
 ![demo](https://user-images.githubusercontent.com/85041715/132649582-ab7dce9b-0a1f-4ab6-9b2b-6a352a9709eb.gif)
 
